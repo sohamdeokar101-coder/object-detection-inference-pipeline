@@ -1,0 +1,8 @@
+image_name,class_name,confidence,color_bgr,x_min,y_min,x_max,y_max
+real_bus.jpg,bus,0.8729,"BGR(255, 0, 0)",22,231,804,756
+real_bus.jpg,person,0.8653,"BGR(0, 255, 0)",48,398,245,902
+real_bus.jpg,person,0.854,"BGR(0, 255, 0)",669,392,809,877
+real_bus.jpg,person,0.8252,"BGR(0, 255, 0)",221,405,345,857
+real_bus.jpg,person,0.2673,"BGR(0, 255, 0)",0,550,62,873
+synthetic_sample.jpg,frisbee,0.5014,"BGR(255, 0, 255)",320,119,480,281
+synthetic_sample.jpg,kite,0.3179,"BGR(0, 165, 255)",320,120,481,282
