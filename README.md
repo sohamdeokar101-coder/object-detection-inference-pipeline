@@ -1,4 +1,4 @@
-# 👁️ Batch Object Detection & Vision Inference Pipeline (`object-detection-inference-pipeline`)
+# 👁️ Batch Object Detection & Vision Inference Pipeline
 
 > A standard style for README files
 
